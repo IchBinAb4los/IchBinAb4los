@@ -6,3 +6,4 @@ Argentina.
 ## Skills
 * Python
 * Java
+* SQL
