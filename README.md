@@ -5,5 +5,10 @@ Argentina.
 
 ## Skills
 * Python
-* Java
+* C#
+* HTML
+* CSS
+* JS
+* JQUERY
+* SCSS
 * SQL
